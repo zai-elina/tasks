@@ -2,6 +2,6 @@ import { SomeComponentFunction } from "./components/SomeComponentFunction/SomeCo
 import { SomeComponentClass } from "./components/SomeComponentClass/SomeComponentClass";
 
 export default function App() {
-  return <SomeComponentClass />;
-  // return <SomeComponentFunction />;
+  // return <SomeComponentClass />;
+  return <SomeComponentFunction />;
 }
